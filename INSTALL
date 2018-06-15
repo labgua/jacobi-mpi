@@ -1,0 +1,10 @@
+
+Installing instructions
+============================
+
+No installing is necessary to use the program.
+Navigate to src directory and call make.
+
+% cd src/
+% make clean
+% make all
